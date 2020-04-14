@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/home/vagrant/Desktop/A_Extensibility/extensibility-demo-simple/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3735875275.index
+3630834821.index
+3013631047.index
+3059764971.index
+2990819403.index
